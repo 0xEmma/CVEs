@@ -3,4 +3,4 @@ Within the Admin Dashboard -> Settings -> Election -> "message if election is cl
 
 Software: eLection Vendor: "fauzantrif" Version: 2.0 https://sourceforge.net/projects/election-by-tripath/
 
-Status: Submitted to Mitre
+Status: CVE-2020-9337
